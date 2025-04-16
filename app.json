@@ -9,6 +9,7 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
+      "bundleIdentifier": "com.bycedric.shortestflighttest",
       "supportsTablet": true
     },
     "android": {
